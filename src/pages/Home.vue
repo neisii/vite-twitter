@@ -1,13 +1,13 @@
 <template>
   <!--main part  -->
-  <div class="flex-1 border-r-8 border-gray-100 overflow-y-auto">
+  <div class="flex-1 border-r-8 border-color overflow-y-auto">
     <div class="flex flex-col">
       <!--page title-->
-      <div class="border-b border-gray-100 px-3 py-2 font-bold text-lg">
+      <div class="border-b border-color px-3 py-2 font-bold text-lg">
         홈
       </div>
       <!--tweeting section-->
-      <div class="flex px-3 py-3 border-b-8 border-gray-100">
+      <div class="flex px-3 py-3 border-b-8 border-color">
         <img src="https://picsum.photos/200" alt=""
              class="w-10 h-10 rounded-full hover:opacity-80 cursor-pointer"
         />
